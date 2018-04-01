@@ -1,0 +1,32 @@
+Xmind8 Pro
+Xmind Zen
+
+flexboxfroggy.com
+
+CSS Grid    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+FlexBox
+
+https://javascript.info/
+
+TS demo pdf
+
+Quokkajs  https://quokkajs.com/
+
+
+https://www.typescriptlang.org/play/index.html#src=for%20(var%20i%20%3D%200%3B%20i%20%3C%2010%3B%20i%2B%2B)%20%7B%0D%0A%20%20%20%20setTimeout(function()%20%7B%20console.log(i)%3B%20%7D%2C%20100)%3B%0D%0A%7D%0D%0A
+
+https://docs.google.com/presentation/d/1EuEPzdvQQ91WW-aDbp8kHobw8xbN9ZLjTFkp56jxrfM/edit#slide=id.p
+
+https://gist.github.com/minutuslausus/3db13ad56008ac7539e6dd30e3073ae5
+
+https://jsbin.com/gufimuc/1/edit?js,output
+
+https://firebase.google.com/docs/reference/rest/auth/
+
+https://nrwl.io/nx/guide-nx-workspace
+
+https://stackblitz.com/edit/reactive-snake?file=main.ts
+
+https://blog.thoughtram.io/rxjs/2017/08/24/taming-snakes-with-reactive-streams.html
+
+https://docs.google.com/presentation/d/1af04Ysxr_rv4V44o1W37LYCoIHt4FfPaUT_cp75fKpQ/edit#slide=id.g2a2b18c977_0_56

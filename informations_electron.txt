@@ -1,0 +1,25 @@
+electronjs.org/docs
+
+github.com/electron/electron   ->docs mappa
+
+npm init
+npm i -D electron  (savedev)
+
+electron-reload npm i -D  electron-reload
+
+https://github.com/electron/devtron  
+npm i --save-dev devtron
+
+debug vs code launch
+
+
+Menus +accelerators
+
+ path.join(app.getPath("downloads"), "electron-pid.txt")
+
+
+https://github.com/electron-userland
+
+https://github.com/electron-userland/electron-builder
+
+npm i -D electron-builder
