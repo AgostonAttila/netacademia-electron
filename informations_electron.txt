@@ -23,3 +23,51 @@ https://github.com/electron-userland
 https://github.com/electron-userland/electron-builder
 
 npm i -D electron-builder
+
+-----------------------------3-----------------------------
+
+ng new Valami
+npm install --save electron
+package json->módósítás author main electron
+main.js 
+ng build --watch
+npm run electron
+npm i -S electron-reload
+npm i -S @types/electron
+
+
+
+ngx-electron https://github.com/ThorstenHans/ngx-electron
+
+src/tsconfig.app.json types node typeroots
+
+
+
+(<any>window).require('electron')
+
+
+Git 2 branch
+rebase continue rebase a végén
+
+
+angular+electron   webpack electron target
+https://github.com/chentsulin/webpack-target-electron-renderer
+
+
+material.angular.io
+
+npm i -S @angular/cdk @angular/material @angular/animation hammerjs
+
+https://material.io/guidelines/#introduction-principles
+https://material.io/guidelines/style/typography.html
+
+themes prebuilt themes
+
+https://github.com/ngrx/platform
+
+
+
+
+
+
+
