@@ -63,11 +63,26 @@ https://material.io/guidelines/style/typography.html
 
 themes prebuilt themes
 
+NGRX-----------------
+
 https://github.com/ngrx/platform
 
+https://github.com/ngrx/platform/blob/master/docs/store/README.md
+package.json githobos volt csekkolni
+
+redux devtools
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+store devtools
+https://github.com/ngrx/store-devtools 
 
 
 
+---------------------
+
+ng serve -p 4200 -o port megnyitás 
 
 
+https://github.com/ngrx/effects
 
+ngrx platform ->example app
